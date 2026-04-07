@@ -100,7 +100,7 @@ The difference comes down to three things I focus on in every engagement:
   
 ## Connect
 
-[![Email](https://img.shields.io/badge/Email-Reach_out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](<a href="mailto:billycarrie94@gmail.com">)
+###billycarrie94@gmail.com
  
 ---
  
