@@ -97,15 +97,10 @@ The difference comes down to three things I focus on in every engagement:
 </div>
  
 ---
-<div align="center">
   
 ## Connect
- 
-<div align="center">
 
-[![Email](https://img.shields.io/badge/Email-Reach_out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:billycarrie94@gmail.com)
- 
-</div>
+[![Email](https://img.shields.io/badge/Email-Reach_out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:"billycarrie94@gmail.com")
  
 ---
  
