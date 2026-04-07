@@ -14,3 +14,147 @@
   <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile+views&color=0078D4&style=flat-square" alt="profile views" />
 </p>
 </div>
+
+## Who I Am
+ 
+I'm **Billy Carrie**, a Founding M&A Security Engineer building and enhancing cybersecurity programs across 10+ acquired organizations in the Retail and Ecommerce industry. When you're securing a portfolio of companies with varying identity maturities and no shared baseline, you learn fast that **identity is the perimeter**.
+ 
+My work spans **IAM**, **Zero Trust architecture**, **Azure and multi-cloud security**, and the **risk and compliance frameworks** that give our identity program a strong foundation to build on.
+ 
+---
+ 
+## Core Competencies
+ 
+<table>
+<tr>
+<td valign="top" width="50%">
+ 
+### Microsoft Entra ID
+- Conditional Access policy design & lifecycle
+- Privileged Identity Management (PIM) — role architecture, activation workflows, access reviews
+- External Identities / B2B guest lifecycle
+- SSPR, hybrid identity (AD Connect / Cloud Sync)
+ 
+</td>
+<td valign="top" width="50%">
+ 
+### Non-Human Identity (NHI)
+- Service principal lifecycle management (creation → rotation → decommission)
+- Workload Identity Federation — keyless auth for CI/CD pipelines
+- Secret & certificate expiry governance
+- Orphaned application detection and remediation
+ 
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+ 
+### IAM Program Design
+- Joiner / Mover / Leaver (JML) process architecture
+- RBAC design — least privilege, role mining, entitlement reviews
+- Identity Governance & Administration (IGA) — access request, certification, SOD
+- KPIs, metrics, and executive reporting frameworks
+ 
+</td>
+<td valign="top" width="50%">
+ 
+### AI in IAM
+- Copilot & LLM governance — managing AI workload identities, OAuth scopes, and consent in enterprise environments
+- Automated access intelligence — using AI-driven insights to inform access reviews and entitlement decisions
+- Responsible AI security — applying AI security foundations (A/AISF) to identity pipeline risk and data access governance
+ 
+</td>
+</tr>
+</table>
+ 
+---
+ 
+## Featured Repositories
+ 
+> These repos represent real-world frameworks, runbooks, and tools I've built and refined. Each is designed to be immediately usable — not just illustrative.
+ 
+| Repository | What It Solves | Key Artifacts |
+|---|---|---|
+| [**entra-id-playbook**](./entra-id-playbook) | Operational runbooks for Entra ID governance | CA policy design, PIM guide, app registration standards |
+| [**nhi-lifecycle-mgmt**](./nhi-lifecycle-mgmt) | End-to-end governance for service principals & managed identities | Lifecycle docs, secret audit scripts, ownership framework |
+| [**iam-program-framework**](./iam-program-framework) | Templates for building an IAM program from the ground up | JML design, RBAC principles, maturity model, IAM KPIs |
+| [**zero-trust-identity**](./zero-trust-identity) | Conditional Access & PIM configurations aligned to Zero Trust | Policy templates, named locations, exclusion strategy |
+| [**kql-identity-queries**](./kql-identity-queries) | Production-ready KQL for identity threat detection | Sign-in risk, privileged changes, SPN anomalies |
+| [**powershell-iam-toolkit**](./powershell-iam-toolkit) | Automation scripts for day-to-day IAM operations | Provisioning, access reviews, stale account reporting |
+ 
+---
+ 
+## What Separates Good IAM from Great IAM
+ 
+> Most organizations have identity *tools*. Few have identity *programs*.
+ 
+The difference comes down to three things I focus on in every engagement:
+ 
+**1. Governance before automation** — Automating a broken process creates automated chaos. I design the policy and ownership model first, then automate it.
+ 
+**2. Non-human identity parity** — Service accounts, service principals, and managed identities carry the same risk as human accounts but receive a fraction of the governance attention. Closing that gap is often where the biggest risk reduction lives.
+ 
+**3. Metrics that move conversations** — IAM teams that speak in technical terms stay technical. I build reporting frameworks that translate identity posture into business risk — which is how you get budget, headcount, and executive support.
+ 
+---
+ 
+## Tech Stack
+ 
+<div align="center">
+ 
+![Microsoft Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![KQL](https://img.shields.io/badge/KQL-00B4D8?style=for-the-badge&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-003087?style=for-the-badge&logo=windows&logoColor=white)
+![Azure AD Connect](https://img.shields.io/badge/AD_Connect-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+ 
+</div>
+ 
+---
+ 
+## Certifications
+ 
+<div align="center">
+ 
+| Certification | Issuer | Focus |
+|---|---|---|
+| **A/AISF** — AI Security Foundation | AKYLADE | AI security principles, risk, and governance |
+| **SC-900** — Security, Compliance & Identity Fundamentals | Microsoft | Security, compliance, and identity concepts across Microsoft cloud |
+| **AI-900** — Azure AI Fundamentals | Microsoft | AI workloads, responsible AI, Azure AI services |
+| **(ISC)² CC** — Certified in Cybersecurity | (ISC)² | Security principles, access controls, network & operations security |
+ 
+</div>
+ 
+---
+ 
+## How I Work
+ 
+```text
+Phase 1 — Assess    Understand current identity posture, tooling, and gaps
+Phase 2 — Design    Build policy, governance, and architecture to close gaps
+Phase 3 — Build     Implement controls, automation, and detection capabilities
+Phase 4 — Operate   Establish access review cadence, metrics, and continuous improvement
+```
+ 
+---
+ 
+## Connect
+ 
+<div align="center">
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Reach_out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+ 
+</div>
+ 
+---
+ 
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=80&section=footer" />
+</div>
+ 
+
