@@ -7,11 +7,11 @@
 <p>
   <a href="https://www.linkedin.com/in/billycarrie/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Microsoft_SC--300-Certified-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_SC--900-Certified-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Microsoft_AZ--500-Certified-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_AI--900-Certified-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile+views&color=0078D4&style=flat-square" alt="profile views" />
+  
 </p>
 </div>
 
