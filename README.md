@@ -97,7 +97,8 @@ The difference comes down to three things I focus on in every engagement:
 </div>
  
 ---
- 
+<div align="center">
+  
 ## Connect
  
 <div align="center">
