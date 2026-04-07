@@ -69,21 +69,6 @@ My work spans **IAM**, **Zero Trust architecture**, **Azure and multi-cloud secu
  
 ---
  
-## Featured Repositories
- 
-> These repos represent real-world frameworks, runbooks, and tools I've built and refined. Each is designed to be immediately usable — not just illustrative.
- 
-| Repository | What It Solves | Key Artifacts |
-|---|---|---|
-| [**entra-id-playbook**](./entra-id-playbook) | Operational runbooks for Entra ID governance | CA policy design, PIM guide, app registration standards |
-| [**nhi-lifecycle-mgmt**](./nhi-lifecycle-mgmt) | End-to-end governance for service principals & managed identities | Lifecycle docs, secret audit scripts, ownership framework |
-| [**iam-program-framework**](./iam-program-framework) | Templates for building an IAM program from the ground up | JML design, RBAC principles, maturity model, IAM KPIs |
-| [**zero-trust-identity**](./zero-trust-identity) | Conditional Access & PIM configurations aligned to Zero Trust | Policy templates, named locations, exclusion strategy |
-| [**kql-identity-queries**](./kql-identity-queries) | Production-ready KQL for identity threat detection | Sign-in risk, privileged changes, SPN anomalies |
-| [**powershell-iam-toolkit**](./powershell-iam-toolkit) | Automation scripts for day-to-day IAM operations | Provisioning, access reviews, stale account reporting |
- 
----
- 
 ## What Separates Good IAM from Great IAM
  
 > Most organizations have identity *tools*. Few have identity *programs*.
@@ -95,23 +80,6 @@ The difference comes down to three things I focus on in every engagement:
 **2. Non-human identity parity** — Service accounts, service principals, and managed identities carry the same risk as human accounts but receive a fraction of the governance attention. Closing that gap is often where the biggest risk reduction lives.
  
 **3. Metrics that move conversations** — IAM teams that speak in technical terms stay technical. I build reporting frameworks that translate identity posture into business risk — which is how you get budget, headcount, and executive support.
- 
----
- 
-## Tech Stack
- 
-<div align="center">
- 
-![Microsoft Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Microsoft Sentinel](https://img.shields.io/badge/Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![KQL](https://img.shields.io/badge/KQL-00B4D8?style=for-the-badge&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-003087?style=for-the-badge&logo=windows&logoColor=white)
-![Azure AD Connect](https://img.shields.io/badge/AD_Connect-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
- 
-</div>
  
 ---
  
@@ -130,24 +98,13 @@ The difference comes down to three things I focus on in every engagement:
  
 ---
  
-## How I Work
- 
-```text
-Phase 1 — Assess    Understand current identity posture, tooling, and gaps
-Phase 2 — Design    Build policy, governance, and architecture to close gaps
-Phase 3 — Build     Implement controls, automation, and detection capabilities
-Phase 4 — Operate   Establish access review cadence, metrics, and continuous improvement
-```
- 
----
- 
 ## Connect
  
 <div align="center">
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/billycarrie/
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Reach_out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![Email](https://img.shields.io/badge/Email-Reach_out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:billycarrie94@gmail.com)
  
 </div>
  
