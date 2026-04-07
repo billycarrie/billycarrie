@@ -100,7 +100,7 @@ The difference comes down to three things I focus on in every engagement:
   
 ## Connect
 
-###billycarrie94@gmail.com
+### billycarrie94@gmail.com
  
 ---
  
