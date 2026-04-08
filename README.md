@@ -7,9 +7,9 @@
 <p>
   <a href="https://www.linkedin.com/in/billycarrie/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Microsoft_SC--900-Certified-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
+  <a href="https://learn.microsoft.com/en-us/users/billycarrie-3570/credentials/7675e9ad06b052b1?ref=https%3A%2F%2Fwww.linkedin.com%2F"><img src="https://img.shields.io/badge/Microsoft_SC--900-Certified-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Microsoft_AI--900-Certified-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+  <a href="https://learn.microsoft.com/en-us/users/billycarrie-3570/credentials/7b23657e917c0cf5?ref=https%3A%2F%2Fwww.linkedin.com%2F"><img src="https://img.shields.io/badge/Microsoft_AI--900-Certified-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
   &nbsp;
   
 </p>
