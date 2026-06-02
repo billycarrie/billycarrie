@@ -72,20 +72,6 @@ My work spans **IAM**, **AI Security** ,**Zero Trust architecture**, **Azure and
  
 ---
  
-## What Separates Good IAM from Great IAM
- 
-> Most organizations have identity *tools*. Few have identity *programs*.
- 
-The difference comes down to three things I focus on in every engagement:
- 
-**1. Governance before automation** — Automating a broken process creates automated chaos. I design the policy and ownership model first, then automate it.
- 
-**2. Non-human identity parity** — Service accounts, service principals, and managed identities carry the same risk as human accounts but receive a fraction of the governance attention. Closing that gap is often where the biggest risk reduction lives.
- 
-**3. Metrics that move conversations** — IAM teams that speak in technical terms stay technical. I build reporting frameworks that translate identity posture into business risk — which is how you get budget, headcount, and executive support.
- 
----
- 
 ## Certifications
  
 <div align="center">
