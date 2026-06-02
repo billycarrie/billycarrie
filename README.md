@@ -2,7 +2,7 @@
 <!-- HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=120&section=header&text=&fontSize=0" />
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=IAM+Engineer;Non-Human+Identity+%7C+Zero+Trust;AI+In+IAM" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Security+Engineer;AI+Security;Non-Human+Identity+%7C+Zero+Trust;Agentic+Identity" alt="Typing SVG" />
 </h1>
 <p>
   <a href="https://www.linkedin.com/in/billycarrie/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
@@ -19,7 +19,7 @@
  
 I'm **Billy Carrie**, a Founding M&A Security Engineer focused on building and enhancing cybersecurity programs across 10+ acquired organizations in the Retail and Ecommerce industry. When you're securing a portfolio of companies with varying identity maturities, you learn fast that **identity is the perimeter**.
  
-My work spans **IAM**, **Zero Trust architecture**, **Azure and multi-cloud security**, and the **risk and compliance frameworks** that give our identity program a strong foundation to build on.
+My work spans **IAM**, **AI Security** ,**Zero Trust architecture**, **Azure and multi-cloud security**, and the **risk and compliance frameworks** that give our identity program a strong foundation to build on.
  
 ---
  
@@ -58,10 +58,13 @@ My work spans **IAM**, **Zero Trust architecture**, **Azure and multi-cloud secu
 </td>
 <td valign="top" width="50%">
  
-### AI in IAM
-- Copilot & LLM governance — managing AI workload identities, OAuth scopes, and consent in enterprise environments
+### AI Security
+
+- RAG pipeline security scanners that detect and redact PII and block prompt injection 
+- OWASP LLM Top 10 application of controls in enterprise AI pipelines
+- Copilot and LLM governance — managing AI workload identities and consent in enterprise environments
 - Automated access intelligence — using AI-driven insights to inform access reviews and entitlement decisions
-- Responsible AI security — applying AI security foundations (A/AISF) to identity pipeline risk and data access governance
+- Responsible AI security — applying zero trust principles to retrieval layers
  
 </td>
 </tr>
