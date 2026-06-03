@@ -19,7 +19,7 @@
  
 I'm **Billy Carrie**, a Founding M&A Security Engineer focused on building and enhancing cybersecurity programs across 10+ acquired organizations in the Retail and Ecommerce industry. When you're securing a portfolio of companies with varying identity maturities, you learn fast that **identity is the perimeter**.
  
-My work spans **IAM**, **AI Security** , **Zero Trust architecture**, **Azure and multi-cloud security**, and the **risk and compliance frameworks** that give our identity program a strong foundation to build on.
+My work spans **IAM**, **AI Security**, **Zero Trust architecture**, **Azure and multi-cloud security**, and the **risk and compliance frameworks** that give our identity program a strong foundation to build on.
  
 ---
  
